@@ -34,17 +34,17 @@
         <div class="work">
             <i class="fas fa-atom"></i>
             <p class="work-heading">Log In</p>
-            <p class="work-text">log In form button</p>
+            <a href="/login.html"><button>Log In</button></a>
         </div>
         <div class="work">
             <i class="fas fa-skiing"></i>
-            <p class="work-heading">Loan</p>
-            <p class="work-text">Loan Section Button</p>
+            <p class="work-heading">Loan Section</p>
+            <a href="/loan.html"><button>Click Here</button></a>
         </div>
         <div class="work">
             <i class="fas fa-atom"></i>
-            <p class="work-heading">Accounts</p>
-            <p class="work-text">Accounts section Button</p>
+            <p class="work-heading">Account Section</p>
+            <a href="/accounts.html"><button>Click Here</button></a>
         </div>
         </div>
 
