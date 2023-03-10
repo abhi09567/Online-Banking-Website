@@ -100,9 +100,9 @@ body {
 .achievements .work i {
     width: fit-content;
     font-size: 50px;
-    color: #333333;
+    color: #100404;
     border-radius: 50%;
-    border: 2px solid #333333;
+    border: 2px solid #cc1c1c;
     padding: 12px;
 }
 
@@ -112,6 +112,19 @@ body {
     text-transform: uppercase;
     margin: 10px 0;
 }
+
+.achievements .a .button {
+    background-color: #5edaf0;
+    color: #000;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.4)
+}
+
 
 .achievements .work .work-text {
     font-size: 15px;
